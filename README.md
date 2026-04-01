@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Assurance+Student+@+FPT+University;Future+SOC+Analyst;Blue+Team+Enthusiast&center=true&width=500&height=50&color=00FF00&speed=40&pause=1500">
 </p>
 
+---
+
 ##  Professional Summary
 
 I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Assurance**.
