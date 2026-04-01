@@ -31,7 +31,8 @@ I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Ass
 
 ##  Personal Info
 
--  Location: Ho Chi Minh City, Vietnam  
+-  Location: Ho Chi Minh City, Vietnam
+-  Education: FPT University  
 -  Major: Information Assurance  
 -  Career Goal: Cybersecurity Specialist  
 
