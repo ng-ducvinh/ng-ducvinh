@@ -28,8 +28,8 @@ I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Sec
 
 ## 📍 Personal Info
 
-- 📍 Location: Vietnam  
-- 🎓 Major: Information Security  
+- 📍 Location: Ho Chi Minh City, Vietnam  
+- 🎓 Major: Information Assurance  
 - 🎯 Career Goal: Cybersecurity Specialist  
 
 ---
@@ -37,22 +37,11 @@ I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Sec
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,python,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ng-ducvinh&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ng-ducvinh&theme=dark" />
-</p>
-
----
 
 ## 🏆 Achievements
 
