@@ -5,18 +5,18 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Future+SOC+Analyst;Blue+Team+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Assurance+Student+@+FPT+University;Future+SOC+Analyst;Blue+Team+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Security**.
+I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Assurance**.
 
 💡 I am interested in:
-- 🔵 Blue Team Operations    
-- 🛡️ Network Security  
+-  Blue Team Operations    
+-  Network Security  
 
 💻 I enjoy learning and practicing with real-world tools such as:
 - VMware  
@@ -28,9 +28,9 @@ I am **Nguyen Duc Vinh**, a passionate student specializing in **Information Sec
 
 ## 📍 Personal Info
 
-- 📍 Location: Ho Chi Minh City, Vietnam  
-- 🎓 Major: Information Assurance  
-- 🎯 Career Goal: Cybersecurity Specialist  
+-  Location: Ho Chi Minh City, Vietnam  
+-  Major: Information Assurance  
+-  Career Goal: Cybersecurity Specialist  
 
 ---
 
